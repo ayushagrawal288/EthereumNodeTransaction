@@ -1,0 +1,8 @@
+*.swp
+*.swo
+*.DS_Store
+*.pyc
+media/*
+*.idea/*
+venv/*
+env.sh
